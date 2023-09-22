@@ -1,11 +1,9 @@
-# VS-CODE
+# VS CODE SETUP 
 
-VS CODE SETUP 
-
-<h1> [+] DEMO </h1>
+# [+] DEMO
 <a href="#"><img title="COBRA-404-CYBER" src="SS.png"></a>
 
-<h2> [+] SOURCE CODE:</h2>
+# [+] SOURCE CODE:
 
 ```
 
