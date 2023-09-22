@@ -1,8 +1,7 @@
 # VS-CODE
 
-VS CODE setup 
-
 ...
+
 {
     "editor.fontSize": 22,
     "editor.tabSize": 2,
@@ -76,4 +75,5 @@ VS CODE setup
         "javascript": "javascriptreact"
      }
   }
+
 ...
