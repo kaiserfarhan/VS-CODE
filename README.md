@@ -1,5 +1,8 @@
 # VS-CODE
 
+VS CODE SETUP 
+
+
 ```
 {
     "editor.fontSize": 22,
