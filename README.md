@@ -4,6 +4,8 @@ VS CODE SETUP
 
 
 ```
+
+
 {
     "editor.fontSize": 22,
     "editor.tabSize": 2,
@@ -50,7 +52,7 @@ VS CODE SETUP
     "liveSassCompile.settings.generateMap": false,
     // VS Code Theme Customization
     "workbench.iconTheme": "material-icon-theme",
-    "workbench.colorTheme": "Andromeda",
+    "workbench.colorTheme": "Ayu Dark",
     "workbench.editor.enablePreview": false,
     "terminal.integrated.defaultProfile.windows": "Git Bash",
     "terminal.integrated.fontSize": 20,
@@ -77,4 +79,6 @@ VS CODE SETUP
         "javascript": "javascriptreact"
      }
   }
+
+
 ```
