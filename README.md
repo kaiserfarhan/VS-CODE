@@ -10,7 +10,7 @@
 
 {
     "editor.fontSize": 22,
-    "editor.tabSize": 2,
+    "editor.tabSize": 4,
     "editor.wordWrap": "on",
     "editor.cursorSmoothCaretAnimation": true,
     "editor.cursorBlinking": "expand",
