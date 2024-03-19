@@ -86,6 +86,10 @@
 ```
 # VS CODE EXTENTIONS :
 
+01 Material Icon Theme
+02 Prettier - Code formatter
+03 Auto Close Tag
+
 #   IF THE THEME DOESN'T WORK THEN GO TO THE EXTENTION MENU & INSTALL AYU THEME
 
 # FOR MORE THEME VISITE : https://vscodethemes.com/
