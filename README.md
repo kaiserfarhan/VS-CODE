@@ -12,7 +12,7 @@
   "editor.fontSize": 24,
   "editor.tabSize": 4,
   "editor.wordWrap": "on",
-  "editor.cursorSmoothCaretAnimation": true,
+  "editor.cursorSmoothCaretAnimation": "on",
   "editor.cursorBlinking": "expand",
   "editor.formatOnSave": true,
   "editor.formatOnPaste": true,
@@ -46,7 +46,7 @@
   "liveServer.settings.donotVerifyTags": true,
   // VS Code Theme Customization
   "workbench.iconTheme": "material-icon-theme",
-  "workbench.colorTheme": "Ayu Dark",
+  "workbench.colorTheme": "Shades of Purple (Super Dark)",
   "workbench.editor.enablePreview": false,
   "terminal.integrated.defaultProfile.windows": "Git Bash",
   "terminal.integrated.fontSize": 20,
@@ -66,6 +66,7 @@
   "screencastMode.verticalOffset": 0,
   "files.autoSave": "afterDelay"
 }
+
 
 
 
